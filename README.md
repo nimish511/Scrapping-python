@@ -282,4 +282,4 @@ Report bugs and feature requests
 
 
 
-Credit @ericfourrier
+Credit [@ericfourrier](https://github.com/ericfourrier/)
